@@ -1,0 +1,12 @@
+platform :ios,'8.0'
+use_frameworks!
+target ‘MJDADSDemo’ do
+    pod 'MBProgressHUD'
+    pod 'AFNetworking'
+    pod 'Masonry'
+    pod 'SDWebImage'
+    pod 'ReactiveCocoa' ,'~> 2.5'
+    pod 'MJExtension'
+    pod 'SVProgressHUD'
+end
+
